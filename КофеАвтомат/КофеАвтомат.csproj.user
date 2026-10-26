@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="coffeAftom.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CoffeName.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hats.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="InfoScrean.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="kranik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Potstavka.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Sirop.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Stakans.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Terminal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Trash.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
